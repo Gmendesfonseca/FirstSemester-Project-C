@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1687182988 source:c:\users\aluno\desktop\charles p3\prova3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1687181564 c:\users\aluno\desktop\charles p3\prova3\header.h
+
+1697594787 source:c:\users\fonse\documents\prova3 - c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"header.h"
+
+1697594622 source:c:\users\fonse\documents\prova3 - c\minhasfuncoes.c
+	<Stdio.h>
+	<time.h>
+	"header.h"
+
+1697594721 c:\users\fonse\documents\prova3 - c\header.h
+
